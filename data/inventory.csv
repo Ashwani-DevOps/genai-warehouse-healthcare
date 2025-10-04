@@ -1,0 +1,7 @@
+item_id,item_name,quantity,expiry_date,location
+101,Insulin Vials,50,2025-12-01,Warehouse A
+102,Surgical Masks,200,2026-05-15,Warehouse B
+103,Gloves,0,2024-11-01,Warehouse A
+104,IV Bags,-5,2025-10-01,Warehouse C
+105,Antibiotics,120,2025-08-30,Warehouse B
+106,Blood Test Kits,30,2023-12-31,Warehouse A

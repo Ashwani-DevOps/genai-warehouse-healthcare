@@ -1,0 +1,16 @@
+transformers
+torch
+pandas
+scikit-learn
+matplotlib
+seaborn
+prophet
+flask
+pytest
+flake8
+bandit
+slack_sdk
+plotly
+flask
+pandas
+python-dotenv
