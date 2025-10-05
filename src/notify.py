@@ -12,4 +12,4 @@ def send_email_alert(subject, body, to_email):
     server.login('ashwanikumarm@gmail.com', 'IamfromThane#6')  # Use app password
     server.sendmail(msg['From'], [msg['To']], msg.as_string())
     server.quit()
-    # for Testing yes
+  
