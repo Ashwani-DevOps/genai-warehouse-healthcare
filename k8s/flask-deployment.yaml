@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: flask
-        image: ghcr.io/Ashwani-DevOps/genai-warehouse:latest
+        image: ghcr.io/ashwani-devops/genai-warehouse:latest
         ports:
         - containerPort: 5000
         envFrom:
